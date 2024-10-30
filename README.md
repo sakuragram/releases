@@ -1,1 +1,1 @@
-this a releases for sakuragram. thats all.
+this a test releases for sakuragram. thats all.
